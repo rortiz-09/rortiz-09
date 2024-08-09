@@ -21,7 +21,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rortiz-09&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rortiz-09&theme=tokyonight)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rortiz09)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I511MRJ1)
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rortiz09)
 
