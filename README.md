@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=JaKooLit&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="JaKooLit" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rortiz-09&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="rortiz-09" /> </p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Ronny+" />
@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="Coding" width="200" src="![gif](https://github.com/user-attachments/assets/3018a9bb-e35e-4513-806c-2137f3512e53)">
+<img align="right" alt="Coding" width="200" src="[![gif](https://github.com/user-attachments/assets/3018a9bb-e35e-4513-806c-2137f3512e53)](https://github-production-user-asset-6210df.s3.amazonaws.com/22598334/356730370-3018a9bb-e35e-4513-806c-2137f3512e53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240809T192510Z&X-Amz-Expires=300&X-Amz-Signature=001abfd65602e5119cee8fd84787d84d483dc39303b29425204a87e62ba6e832&X-Amz-SignedHeaders=host&actor_id=22598334&key_id=0&repo_id=805654665)">
 
 ---
 
