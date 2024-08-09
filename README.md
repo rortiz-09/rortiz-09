@@ -22,7 +22,7 @@
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rortiz-09&theme=tokyonight)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I511MRJ1)
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#e02841', 'I2I511MRJ1');kofiwidget2.draw();</script> 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rortiz09)
 
