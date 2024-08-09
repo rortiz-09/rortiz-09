@@ -4,11 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Ronny+" />
 </h3>
 
-![image](https://github.com/user-attachments/assets/3018a9bb-e35e-4513-806c-2137f3512e53)
 
 
-<img align="right" alt="Coding" width="200" src="![image](https://github.com/user-attachments/assets/3018a9bb-e35e-4513-806c-2137f3512e53)"
-">
+<img align="right" alt="Coding" width="200" src="![image](https://github.com/user-attachments/assets/3018a9bb-e35e-4513-806c-2137f3512e53)">
 
 ---
 
