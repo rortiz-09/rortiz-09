@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="Coding" width="200" src="">
+<img align="right" alt="Coding" width="200" src="https://github.com/rortiz-09/rortiz-09/blob/rom/.github/cloud-computing_15713037.gif">
 
 ---
 
