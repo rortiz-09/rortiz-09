@@ -11,7 +11,7 @@
 ---
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
-- 🌱 I’m currently learning how to code properly
+- 🌱 I'm  currently learning Azure, Azure Devops and terraform.
 - 🏠 Kindly join my discord [Discord](https://discord.gg/f5V6Usf)
 ---
 
